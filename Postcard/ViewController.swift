@@ -30,7 +30,7 @@ class ViewController: UIViewController {
 
     @IBAction func sendMailButtonPressed(sender: UIButton)
     {
-      
+      // Do something with messages and buttons here
         
     }
 
